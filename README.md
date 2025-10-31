@@ -30,7 +30,7 @@ It features a clean **Tkinter GUI**, supports **multiple languages**, and offers
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Language-Translator.git
+   git clone https://github.com/asha8813/Language-Translator
    cd "Language Translator"
 Create and activate a virtual environment
 
