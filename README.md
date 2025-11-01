@@ -1,39 +1,32 @@
-<<<<<<< HEAD
-\# 🗣️ Real-Time Speech-to-Text Language Translator
+🗣️ Real-Time Speech-to-Text Language Translator
 
 
 
-The \*\*Real-Time Speech-to-Text Language Translator\*\* is a Python-based application that listens to speech through a microphone, converts it into text, translates it into another language, and optionally speaks out the translated output — all in real time.  
+The "Real-Time Speech-to-Text Language Translator" is a Python-based application that listens to speech through a microphone, converts it into text, translates it into another language, and optionally speaks out the translated output — all in real time.  
 
 
 
-It combines \*\*Speech Recognition\*\*, \*\*Translation\*\*, and \*\*Text-to-Speech (TTS)\*\* technologies to make multilingual communication effortless and natural.  
+It combines 'Speech Recognition', Translator, and Text-to-Speech (TTS) technologies to make multilingual communication effortless and natural.  
 
-Designed with an interactive \*\*Tkinter GUI\*\*, this tool provides smooth and user-friendly translation experiences for live conversations, presentations, or language learning.
-
-
-
----
+Designed with an interactive Tkinter GUI, this tool provides smooth and user-friendly translation experiences for live conversations, presentations, or language learning.
 
 
 
-\## 🚀 Features
+🚀 Features
+
+
+ 🎤 \*\*Real-Time Speech Recognition\*\* – Converts your spoken words into text instantly.  
+
+ 🌍 \*\*Language Translation\*\* – Translates recognized text into the selected target language using Google Translate API.  
+
+ 🔊 \*\*Speech Output\*\* – Speaks the translated text aloud using text-to-speech.  
+
+ 🪄 \*\*Interactive GUI\*\* – Built with Tkinter for simple and intuitive user interaction.  
+
+ ⚡ \*\*Lightweight \& Fast\*\* – Works locally and requires minimal resources.  
 
 
 
-\- 🎤 \*\*Real-Time Speech Recognition\*\* – Converts your spoken words into text instantly.  
-
-\- 🌍 \*\*Language Translation\*\* – Translates recognized text into the selected target language using Google Translate API.  
-
-\- 🔊 \*\*Speech Output\*\* – Speaks the translated text aloud using text-to-speech.  
-
-\- 🪄 \*\*Interactive GUI\*\* – Built with Tkinter for simple and intuitive user interaction.  
-
-\- ⚡ \*\*Lightweight \& Fast\*\* – Works locally and requires minimal resources.  
-
-
-
----
 
 
 
@@ -61,7 +54,7 @@ Designed with an interactive \*\*Tkinter GUI\*\*, this tool provides smooth and 
 
 
 
-\## 📦 Installation
+📦 Installation
 
 
 
@@ -69,8 +62,7 @@ Designed with an interactive \*\*Tkinter GUI\*\*, this tool provides smooth and 
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/<your-username>/RealTime-Speech-Translator.git
-
+&nbsp;  git clone https://github.com/asha8813/Language-Translator
 &nbsp;  cd "RealTime-Speech-Translator"
 
 Create and activate a virtual environment
